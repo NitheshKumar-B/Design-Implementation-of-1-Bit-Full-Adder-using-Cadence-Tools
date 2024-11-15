@@ -8,6 +8,7 @@ To design and implement a 1-bit full adder circuit using Cadence EDA tools and t
 Tools Required:
 
 •	Personal Computer
+
 •	Cadence Virtuoso Software
 
 Circuit Diagram:
@@ -103,18 +104,22 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+
 ![Screenshot 2024-11-14 153045](https://github.com/user-attachments/assets/6c26bcc7-f42d-4c9e-a494-193bd9d11ec1)
 
 
 
-For Transient Analysis Settings and Output
+For Transient Analysis Settings 
  
 ![Screenshot 2024-11-14 153107](https://github.com/user-attachments/assets/4cece571-f64f-4538-952a-77dd7dae08a1)
 
+ Output
+ 
 ![Screenshot 2024-11-14 142733](https://github.com/user-attachments/assets/dd168097-963b-4685-8f52-8f770a3d20af)
 
 
  
 
 Results:
+
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
