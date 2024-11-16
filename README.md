@@ -1,22 +1,23 @@
 # Ex No: 05 Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
      
 
-Aim:
+## Aim:
 
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
 
-Tools Required:
+## Tools Required:
 
 •	Personal Computer
 
 •	Cadence Virtuoso Software
 
-Circuit Diagram:
+## Circuit Diagram:
 
 ![IMG-20241115-WA0006](https://github.com/user-attachments/assets/9b7907e2-47d3-4014-9317-998a850366b4)
 
+## Schematic Simulation:
 
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
+PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
@@ -94,7 +95,7 @@ iv)	Creating the new test cell view
 
 
  
-Analog simulation by SPECTRE.
+## Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 	Execute Setup—Simulation/directory/Host A new window opens
@@ -109,17 +110,17 @@ Analog simulation by SPECTRE.
 
 
 
-For Transient Analysis Settings 
+## For Transient Analysis Settings: 
  
 ![Screenshot 2024-11-14 153107](https://github.com/user-attachments/assets/4cece571-f64f-4538-952a-77dd7dae08a1)
 
- Output
+ ## Output:
  
 ![Screenshot 2024-11-14 142733](https://github.com/user-attachments/assets/dd168097-963b-4685-8f52-8f770a3d20af)
 
 
  
 
-Results:
+## Result:
 
 The design and implementation of the 1-bit full adder using Cadence EDA tools were successfully completed. The simulation results verified the correct operation of the full adder, with accurate sum and carry outputs for all input combinations.
